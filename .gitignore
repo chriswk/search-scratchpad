@@ -3,6 +3,7 @@ logs
 *.ipr
 *.iws
 .idea
+node
 node_modules
 build.js
 .classpath
