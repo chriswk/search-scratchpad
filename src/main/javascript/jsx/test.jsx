@@ -1,6 +1,9 @@
 /** @jsx React.DOM */
 var HelloMessage = React.createClass({
     render: function() {
-        return <div>Hello world{this.props.name}</div>;
+        console.log("Changed again fi");
+        return (
+            <div>Hello world from React{this.props.name}</div>
+        );
     }
 });
