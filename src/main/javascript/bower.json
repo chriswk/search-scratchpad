@@ -1,0 +1,21 @@
+{
+  "name": "search-dash",
+  "version": "0.0.0",
+  "authors": [
+    "Christopher Kolstad <christopher.kolstad@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "closure-compiler": "http://dl.google.com/closure-compiler/compiler-latest.zip"
+  }
+}
